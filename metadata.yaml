@@ -15,5 +15,5 @@
 homepage: "https://getcake.com/"
 documentation: "https://getcake.com/"
 versions:
-  - sha: 073b52da5d5ae660a8053ef485b3f27089c37ffa
+  - sha: 027bbf20b1313666212acf6585c14d07d856571e
     changeNotes: Initial Version
